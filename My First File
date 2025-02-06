@@ -1,0 +1,6 @@
+Console.writeLine("Enter 1st number");
+int n1 = Convert.TOInt32(Console.ReadLine());
+Console.writeLine("Enter 2st number");
+int n2 = Convert.TOInt32(Console.ReadLine());
+int sum = n1 + n2;
+Console.writeLine("Sum is : "+ sum);
